@@ -7,7 +7,7 @@ function Show() {
 function Info() {
     return (
         <div>
-            <h1>JAY</h1>
+            <h1>er.JAY</h1>
             <Show />
         </div>
     )
